@@ -1,12 +1,12 @@
 # 任务流设计器
 
-![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/tree/master/src/main/resources/pages/images/main1.JPG)
+![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/blob/master/src/main/resources/pages/images/main1.JPG)
 
-![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/tree/master/src/main/resources/pages/images/main2.JPG)
+![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/blob/master/src/main/resources/pages/images/main2.JPG)
 
-![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/tree/master/src/main/resources/pages/images/main3.JPG)
+![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/blob/master/src/main/resources/pages/images/main3.JPG)
 
-![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/tree/master/src/main/resources/pages/images/main4.JPG)
+![任务流设计器](https://github.com/Xchunguang/TaskFlowDesigner/blob/master/src/main/resources/pages/images/main4.JPG)
 
 
 
