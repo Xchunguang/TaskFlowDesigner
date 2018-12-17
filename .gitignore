@@ -1,0 +1,11 @@
+/build
+/bin
+/.classpath
+/.project
+/.settings
+/test-output
+/~/
+/.idea
+/target
+/inno_build
+/derby.log
