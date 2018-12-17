@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.15</version>
+			<version>[1.2.31,)</version>
 		</dependency>
 
 		<!--derby内嵌数据库依赖 -->
